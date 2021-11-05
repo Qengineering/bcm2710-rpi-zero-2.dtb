@@ -1,0 +1,1 @@
+# bcm2710-rpi-zero-2.dtb
